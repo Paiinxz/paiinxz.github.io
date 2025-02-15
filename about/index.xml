@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Paiinxz</title>
+    <link>https://paiinxz.github.io/about/</link>
+    <description>Recent content in Abouts on Paiinxz</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://paiinxz.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>./about</title>
+      <link>https://paiinxz.github.io/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://paiinxz.github.io/about/about/</guid>
+      <description>&lt;div class=&#34;typeit&#34;&gt;&lt;div id=&#34;id-1&#34;&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;fa-solid-fa-pen-to-square-this-is-my-blog&#34;&gt;:(fa-solid fa-pen-to-square): This is my Blog.&lt;/h2&gt;&#xA;&lt;p&gt;Where I am gonna start to post &lt;a href=&#34;https://paiinxz.github.io/posts&#34; rel=&#34;&#34;&gt;writeups&lt;/a&gt; of previous CTF I&amp;rsquo;ve done.&lt;/p&gt;&#xA;&lt;p&gt;I might aswell write some &lt;a href=&#34;https://paiinxz.github.io/articles&#34; rel=&#34;&#34;&gt;articles&lt;/a&gt; about some topics that interest me in cybersecurity.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Started my journey to my Master&amp;rsquo;s Degree with &lt;strong&gt;Ecole 2600&lt;/strong&gt;, &lt;strong&gt;hoping it will be stepping stone&lt;/strong&gt; to my career.&lt;/p&gt;&#xA;&lt;p&gt;For the moment, I am training to developp my skills on infoSec. Im active on differents training sites as &lt;a href=&#34;https://www.root-me.org/Paiinxz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer &#34;&gt;Root-me&lt;/a&gt; and &lt;a href=&#34;https://app.letsdefend.io/user/paiinxz&#34; target=&#34;_blank&#34; rel=&#34;noopener noreffer &#34;&gt;LetsDefend&lt;/a&gt;. Also on some &lt;strong&gt;&lt;a href=&#34;#fa-solid-fa-list-check-past-ctf&#34; rel=&#34;&#34;&gt;CTF&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
